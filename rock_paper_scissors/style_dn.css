@@ -1,0 +1,54 @@
+/* basic styles */
+body {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    color: #008B7A;
+}
+
+a {
+    color: #8a2be2;
+}
+
+p {
+    width: 80%;
+}
+/* styling of code elements in text */
+#code {
+    background-color: rgb(165, 164, 164);
+    color: black;
+    font-family: monospace;
+    border-radius: 2px;
+    padding: 1px;
+
+}
+
+/* styling of game elements */
+#game {
+    color: black;
+    background-color: grey;
+    width: 40%;
+    border: 5px ridge whitesmoke;
+    padding: 5px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+#result {
+    color:#44FCE5;
+}
+
+
+#game button {
+    color: #8a2be2;
+    border-radius: 4px;
+    border: 1px solid rgb(3, 3, 3);
+    font-weight: bold;
+}
+
+#game button:hover {
+    color:#44FCE5 ;
+    background-color: darkgray;
+}
