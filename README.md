@@ -1,8 +1,16 @@
 # YT_projects
 Repo for group projects based on Youtube tutorials.
 
-## Notes for collaborators
+## Table of Contents
 
-### File naming convention
+### Steven's projects
 
-*give all files that aren't common to the group a suffix with your initials. E.g., an index html by Dennis would be named 'index_dn.html'.
+#### Rock Paper Scissors
+
+[Rock Paper Scissors 2: Electric Boogaloo](https://dennis-nichols.github.io/yt_group_projects/RPS2_SR)
+
+### Dennis's projects
+
+#### Rock Paper Scissors
+
+[Version 1 - Beginner](https://dennis-nichols.github.io/yt_group_projects/rps1_dn)
