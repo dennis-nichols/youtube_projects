@@ -5,12 +5,12 @@ Repo for group projects based on Youtube tutorials.
 
 ### Steven's projects
 
-#### Rock Paper Scissors
+1. Rock Paper Scissors
 
-[Rock Paper Scissors 2: Electric Boogaloo](https://dennis-nichols.github.io/yt_group_projects/RPS2_SR)
+    * [Rock Paper Scissors 2: Electric Boogaloo](https://dennis-nichols.github.io/yt_group_projects/RPS2_SR)
 
 ### Dennis's projects
 
-#### Rock Paper Scissors
+1. Rock Paper Scissors
 
-[Version 1 - Beginner](https://dennis-nichols.github.io/yt_group_projects/rps1_dn)
+    * [Version 1 - Beginner](https://dennis-nichols.github.io/yt_group_projects/rps1_dn)
