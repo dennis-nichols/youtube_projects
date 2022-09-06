@@ -14,12 +14,11 @@ The input from the buttons was displayed in the user choice section using the pr
 
 1. A variable was created for the button input using the [querySelectorAll](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll) method of the document object. You have to be careful when using this method because it takes as arguments only valid CSS selectors. This would result, in our example, in grabbing all the buttons on the page. If there were other buttons we wanted to leave alone, we'd need to use the [getElementById](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById) method after assigning the buttons ids within the html file. The method we call here returns a list ([NodeList](https://developer.mozilla.org/en-US/docs/Web/API/NodeList)) of the elements that match our selector.
 
-    ```js 
+    ```js
     const possibleChoices = document.querySelectorAll('button');
     ```
 
 2. Next a [forEach](https://developer.mozilla.org/en-US/docs/Web/API/NodeList/forEach) method call is executed on the list of elements generated in the `possibleChoices` object. For each element in the list it executes the `possibleChoice` arrow function which calls the `addEventListener` method on the element. This method listens for an event (a button click in this case) and then executes another arrow function nested inside. This function lists as its paramater `e` (for event) and assigns the id of the target event (the name of the button clicked) to the `userChoice` variable. Then it assigns the value of this variable to the `innerHTML` attribute of the `userChoiceDisplay` variable. This has the effect of displaying the user's choice on the screen. The next 2 function calls are explained in subsequent sections.
-
 
     ```js
     possibleChoices.forEach(possibleChoice => possibleChoice.addEventListener('click', (e) => {
