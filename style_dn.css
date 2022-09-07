@@ -26,14 +26,20 @@ p {
 }
 
 /* styling of game elements */
+
+#game-holder {
+    width: 90%;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
 #game {
     color: black;
     background-color: grey;
     width: 40%;
     border: 5px ridge whitesmoke;
     padding: 5px;
-    margin-left: 50px;
-    margin-top: 50px;
+    margin-top: 20px;
 }
 
 #result {

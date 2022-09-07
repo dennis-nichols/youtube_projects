@@ -1,7 +1,9 @@
 // create display variables
 const userChoiceDisplay = document.createElement('h2');
 const computerChoiceDisplay = document.createElement('h2');
-const resultDisplay = document.createElement('h1');
+const resultDisplay = document.createElement('h2');
+
+resultDisplay.id = 'result';
 
 // create variable which points to the game html div element
 const gameGrid = document.getElementById('game');

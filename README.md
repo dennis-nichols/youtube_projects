@@ -14,3 +14,4 @@ Repo for group projects based on Youtube tutorials.
 1. Rock Paper Scissors
 
     * [Version 1 - Beginner](https://dennis-nichols.github.io/yt_group_projects/rps1_dn)
+    * [Version 2 - Intermediate](https://dennis-nichols.github.io/ytyt_group_projects/rps2_dn)
