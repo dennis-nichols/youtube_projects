@@ -51,9 +51,12 @@ const gridDisplay = document.querySelector('#grid');
 
 
 function createBoard () {
-    for (let i = 0; i < cards.length; i++) {
+    for (let i = 0; i < cardArray.length; i++) {
         const card = document.createElement('img');
         card.setAttribute('data-id', i);
         card.setAttribute('src', 'images/blue_sky.jpg');
+        gridDisplay.appendChild(card);
 }
 }
+
+createBoard()
