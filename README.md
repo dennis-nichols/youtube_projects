@@ -1,17 +1,10 @@
-# YT_projects
-Repo for group projects based on Youtube tutorials.
+# Youtube Projects
+
+Repo for projects based on Youtube tutorials.
 
 ## Table of Contents
 
-### Steven's projects
-
 1. Rock Paper Scissors
 
-    * [Rock Paper Scissors 2: Electric Boogaloo](https://dennis-nichols.github.io/yt_group_projects/RPS2_SR)
-
-### Dennis's projects
-
-1. Rock Paper Scissors
-
-    * [Version 1 - Beginner](https://dennis-nichols.github.io/yt_group_projects/rps1_dn)
-    * [Version 2 - Intermediate](https://dennis-nichols.github.io/ytyt_group_projects/rps2_dn)
+    * [Version 1 - Beginner](https://dennis-nichols.github.io/youtube_projects/RPS/rps1_dn)
+    * [Version 2 - Intermediate](https://dennis-nichols.github.io/youtube_projects/RPS/rps2_dn)
