@@ -8,3 +8,7 @@ Repo for projects based on Youtube tutorials.
 
     * [Version 1 - Beginner](https://dennis-nichols.github.io/youtube_projects/RPS/rps1_dn)
     * [Version 2 - Intermediate](https://dennis-nichols.github.io/youtube_projects/RPS/rps2_dn)
+
+2. Snake
+
+    * [Version 1 - Unstyled](https://dennis-nichols.github.io/youtube_projects/snake/)
